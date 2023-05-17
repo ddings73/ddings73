@@ -6,7 +6,7 @@
 <br/>
 ![ddings's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddings73&show_icons=true&theme=dark)
 <br/>
-[![RepomonUserCard](https://repomon.kr/card/user?userId=6)](https://repomon.kr)
+[![RepomonUserCard](https://repomon.kr/card/user?userId=6)](https://repomon.kr/user/6)
 <!--
 **ddings73/ddings73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
